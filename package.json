@@ -1,6 +1,6 @@
 {
-  "name": "Less-Watcher",
-  "version": "0.1.0",
+  "name": "less-watcher",
+  "version": "0.1.1",
   "main": "less-watch-compiler.js",
   "repository": {
     "type": "git",
