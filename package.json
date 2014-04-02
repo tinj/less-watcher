@@ -1,0 +1,13 @@
+{
+  "name": "Less-Watcher",
+  "version": "0.1.0",
+  "main": "less-watch-compiler.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tinj/Less-Watcher.git"
+  },
+  "dependencies": {
+    "less": "~1.7.0"
+  },
+  "license": "MIT"
+}
